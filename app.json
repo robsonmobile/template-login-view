@@ -8,5 +8,6 @@
 "sortWeight":"0.2",
 "keywords":[""],
 "highlights" : [""],
-"relationship":"login view"
+"relationship":"login view",
+"projectTypeName": "com.intel.xdk.projecttype.webapp"
 }
